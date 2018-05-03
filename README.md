@@ -26,6 +26,7 @@ My project is related to the NBA and Lebron James. This project will include the
 **Include some carrer highlights**
 1) Include picture(s)/video(s):
   -write some quotes about what people thought about that event.
+  
   -write a brief summary about what was happeneing that game.(score and who they were playing. Stuff like any all-stars Lebron was playing agaisnt)
 
 **Include The Visual**
