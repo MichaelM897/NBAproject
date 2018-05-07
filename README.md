@@ -31,4 +31,9 @@ My project is related to the NBA and Lebron James. This project will include the
   -write a brief summary about what was happeneing that game.(score and who they were playing. Stuff like any all-stars Lebron was playing agaisnt)
 
 **Include The Visual**
-1)
+
+1) This is the game winning shot Lebron made playing against the Raptors in game 3 (https://www.youtube.com/watch?v=2XWgRpfkxhY)
+
+2) This is game 7 cavs vs pacers when Lebron had 45 points, 7 assists, and 9 rebonds to move to face the raptors (https://www.youtube.com/watch?v=sJESklTb1Fg)
+
+3) This is the website for the court to see Lebron's shoting percentage (http://www.austinclemens.com/shotcharts/)
