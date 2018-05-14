@@ -1,1 +1,23 @@
-
+body {
+  background-color: #f9f9f9;
+  color: black
+}
+#top img{
+  width: 7%;
+  float: left;
+}
+#top {
+  padding: 10x;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 200%;
+  background-color: #113edd;
+  color: white;
+}
+#Stats img{
+  width: 20%;
+  float: left;
+}
+#Stats h2{
+  font-size: 235%;
+}
