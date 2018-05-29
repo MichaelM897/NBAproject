@@ -1,6 +1,6 @@
 body {
-  background-color: #f9f9f9;
-  color: black
+  background-color: #e0e0e0;
+  color: black;
 }
 #top img{
   width: 7%;
@@ -20,4 +20,15 @@ body {
 }
 #Stats h2{
   font-size: 235%;
+}
+#Stats table, th, td {
+  border: 2px solid white;
+  border-collapse: collapse;
+}
+#Stats th, td {
+    padding: 15px;
+}
+#Stats th {
+    text-align: left;
+    background-color: #eee;
 }
