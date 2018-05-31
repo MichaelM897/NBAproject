@@ -21,14 +21,18 @@ body {
 #Stats h2{
   font-size: 235%;
 }
-#Stats table, th, td {
+table, th, td {
   border: 2px solid white;
+  background-color:#adafb2;
   border-collapse: collapse;
 }
-#Stats th, td {
+th, td {
     padding: 15px;
 }
-#Stats th {
+th {
     text-align: left;
-    background-color: #eee;
+    background-color:#729be0;
+}
+#RegularSeason p{
+  text-align:center;
 }
