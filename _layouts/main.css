@@ -33,6 +33,21 @@ th {
     text-align: left;
     background-color:#729be0;
 }
-#RegularSeason p{
+#RegularSeason h4{
   text-align:center;
+}
+#PostSeason h4{
+  text-align:center;
+}
+#Video1 iframe{
+  float:left;
+}
+#Video1 p{
+  font-size: 25px;
+}
+#Video2 iframe{
+  float:left;
+}
+#Video2 p{
+  font-size: 23px;
 }
